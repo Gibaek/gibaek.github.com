@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Hwang gi baek"
 date:   2015-05-15 17:28:51
 categories: jekyll update
 ---
